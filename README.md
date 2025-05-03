@@ -1,25 +1,27 @@
-# Model Download Info
+# Dataset Access Instructions
 
-This repository provides information about a downloadable model.
+This repository is intended to provide access to a private dataset. The dataset is **not available for public download** directly from this repository.
 
-## 📥 How to Download
+## 📥 How to Request the Dataset
 
-To get access to the model, please contact me via email. The model is **not hosted publicly** for direct download to maintain control and version tracking.
+To obtain a copy of the dataset, please email the maintainer with a request.
 
-### 📧 Request Access
+### 📧 Contact Email
 
-To download the model, send an email to:
+Send your request to:
 
 **hello37143@gmail.com**
 
-Please include:
-- Your name
-- Reason for request
-- Any additional relevant details
+Include the following details in your message:
+- Your full name
+- Purpose of using the dataset
+- Any relevant affiliation (e.g., school, research, project)
 
-You will receive the model file and instructions upon approval.
+Once reviewed, you will be sent a download link or further instructions.
 
-## 🔐 Note
+## 🔒 Access Notice
 
-This model is shared for educational or approved use only. Do not redistribute without permission.
+- This dataset is for **approved use only**.
+- Redistribution without permission is strictly prohibited.
 
+Thank you for your interest!
